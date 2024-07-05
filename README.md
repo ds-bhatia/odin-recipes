@@ -1,1 +1,1 @@
-# odin-recipes
+Recipe Website made with HTML for the odin project.
